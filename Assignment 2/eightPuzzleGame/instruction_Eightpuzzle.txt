@@ -1,0 +1,5 @@
+Use Eclipse
+
+1.Import project eightpuzzleGame in Eclipse
+2.Open directory %eightPuzzleGame\src in Eclipse
+3. run eightPuzzleUI
